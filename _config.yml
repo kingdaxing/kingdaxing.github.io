@@ -21,7 +21,7 @@ repository               : "kingdaxing/kingdaxing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Pan_profile.png"
+  avatar           : "profile.png"
   name             : "Pan Xinxin"
   pronouns         : # example: "she/her"  
   bio              : "Passionate Coastal Consultant & Engineer"
