@@ -1,5 +1,5 @@
 ---
-title: "Channel Optimization Design - A Case study of Shawan River"
+title: "Paper Title Number 1"
 collection: publications
 category: thesis
 permalink: /publication/2009-10-01-paper-title-number-1
