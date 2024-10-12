@@ -38,7 +38,7 @@ Skills
   * FLOW3D: TKE Simulation Focusing on Flow-Structure Interaction. 
   * QGIS, Civil3D: Watersheds direction.
   * AutoBank: Seepage and Stability Analyses of Structures based on Finite Element Method.
-* **Script: **
+* **Scripts:**
   * MATLAB: 
   * R, Python:
 * Others: Zotero, Tableau, SPSS, AutoCAD, RevitBIM, SketchUp. 
