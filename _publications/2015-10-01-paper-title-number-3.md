@@ -3,10 +3,10 @@ title: "Sediment Experiment with Current Report"
 collection: publications
 category: reports
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This report studies sediment transport parameters and ripple formation through flume experiments using Shields region diagrams.'
 date: 2024-05-01
 venue: 'Master Core Module - Sediment Transport'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://kingdaxing.github.io/files/NO3.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This report presents experiments conducted in a water-recirculating flume to study sediment transport, focusing on incipient sediment motion and sand ripples. The analysis uses Shields diagrams to assess the critical conditions for sediment movement, including incipient motion velocity and sand ripple formation. Post-processed Acoustic Doppler Velocimetry (ADV) data provides insights into flow characteristics and sediment behavior. The experiments successfully validate the Shields parameter's prediction of sediment transport conditions, demonstrating the relationship between shear stress and particle Reynolds number, with key results visualized in modified Shields and Shields regime diagrams.
