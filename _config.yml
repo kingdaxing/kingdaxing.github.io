@@ -75,10 +75,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  reports:
-    title: 'Reports'
   thesis:
     title: 'Thesis'    
+  reports:
+    title: 'Reports'
   scripts:
     title: 'Scripts'
 
