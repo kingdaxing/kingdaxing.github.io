@@ -39,11 +39,12 @@ Skills
   * QGIS, Civil3D: Watersheds direction.
   * AutoBank: Seepage and Stability Analyses of Structures based on Finite Element Method.
 * **Scripts:**
-  * MATLAB: 
-  * R, Python:
+  * MATLAB: Sediment Transport in Current Processes Modeling; Integration with Delft3D; Data analysis.
+  * R, Python: Advanced Statistical Analysis; Dataset Processing; Artificial Neural Network Modelling and Data Assimilation.
 * Others: Zotero, Tableau, SPSS, AutoCAD, RevitBIM, SketchUp. 
 
  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Led teams in two research projects focused on TKE simulation and fluvial lab experiments.
+* Led a women’s college basketball team to win multiple prizes in Jiangsu, China.
