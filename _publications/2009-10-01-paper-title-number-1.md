@@ -4,7 +4,8 @@ collection: publications
 category: thesis
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This study explores the optimization of the Shawan River channel in Shenzhen to enhance flood protection while balancing localized sediment prevention and erosion control.'
-date: 2024-04-01
+date: 2024-01-15
+venue: 'Master Core Module'
 paperurl: 'http://kingdaxing.github.io/files/NO1.pdf'
 ---
 
