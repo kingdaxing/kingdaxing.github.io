@@ -25,7 +25,7 @@ Work experience
     * Hydrological Modeling
     * Technical Report Writing
     * Topographic & Morphologic Anaylsis using Civil3D & QGIS
-  *Main Projects:
+  * Main Projects:
     * Seawall Design with Mangroves
     * Road-River Cross-Engineering Evaluation (Scour Risk and Flow Prediction)
     * Coastal Protection Reconstruction in Estuary
