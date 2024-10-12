@@ -4,7 +4,7 @@ collection: publications
 category: scripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This assignment models rainfall-runoff using LSTM and MLP networks, focusing on data clean and model calibration.'
-date: 2024-02-17
+date: 2024-04-10
 venue: 'Master Core Module - Hydro-Informatics'
 paperurl: 'http://kingdaxing.github.io/files/NO4.pdf'
 ---
