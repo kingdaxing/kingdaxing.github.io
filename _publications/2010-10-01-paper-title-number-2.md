@@ -5,7 +5,7 @@ category: reports
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This study proposes a living shoreline design using artificial submerged reefs, while evaluating their effectiveness by theoretical analysis, case studies, and SWASH model results.'
 date: 2024-05-10
-venue: 'Master Core Module'
+venue: 'Master Core Module - Nature-based Solutions (NbS) for Coastal Protection'
 paperurl: 'http://kingdaxing.github.io/files/NO2.pdf'
 ---
 
