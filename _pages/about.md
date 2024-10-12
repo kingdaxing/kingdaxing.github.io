@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Hey! This is Pan.
+
 I completed my master's in Civil Engineering (Sustainable Climate Resilience) from the [National University of Singapore - College of Design and Engineering](https://cde.nus.edu.sg/cee/) in June 2024, focusing on nature-based solutions (NbS) for coastal protection, sediment transport, vegetation processes in wetlands and marshes, and numerical modeling (Delft3D), as well as artificial neural networks for hydrological analysis. 
 
 My research interests include sediment transport and coastal protections, nature-based solutions for coastal processes, flow-sediment-vegetation interaction and numerical methods. 
