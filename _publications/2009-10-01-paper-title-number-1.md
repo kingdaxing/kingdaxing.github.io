@@ -3,7 +3,7 @@ title: "Channel Optimization Design - A Case study of Shawan River"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This study explores the optimization of the Shawan River channel to enhance flood protection while balancing localized sediment prevention and erosion control.'
+excerpt: 'This study explores channel optimization to enhance flood protection while balancing localized sediment and erosion.'
 date: 2024-04-01
 venue: 'Thesis for the Master's Core Research Module'
 paperurl: 'http://academicpages.github.io/files/NO1.pdf'
