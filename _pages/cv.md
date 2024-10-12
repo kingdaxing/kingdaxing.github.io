@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Singapore, National University of Singapore, 2024
+* B.Eng. in China, Hohai University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2020 - Jun 2022 : Coastal Engineer & Consultant
+  * Water Engineering Department, Shenzhen Water Planning & Design Institute Co., Ltd., China
+  * Duties includes: 
+    * Feasibility Studies, Planning & Design for Coastal & Water Engineering Projects
+    * Hydrological Modeling
+    * Technical Report Writing
+    * Topographic & Morphologic Anaylsis using Civil3D & QGIS
+  *Main Projects:
+    * Seawall Design with Mangroves
+    * Road-River Cross-Engineering Evaluation (Scour Risk and Flow Prediction)
+    * Coastal Protection Reconstruction in Estuary
+    * Reservoir and Dam Safety Assessment
+    * Open-Channel Design and Associated Facilities (e.g., Weirs)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Modelling:**
+  * Delft3D: Mixing & Diffusion Processes in Open Ocean.
+  * DHI MIKE: Flood Assessment and Simulation of Wave-Current Dynamics.
+  * FLOW3D: TKE Simulation Focusing on Flow-Structure Interaction. 
+  * QGIS, Civil3D: Watersheds direction.
+  * AutoBank: Seepage and Stability Analyses of Structures based on Finite Element Method.
+* **Script: **
+  * MATLAB: 
+  * R, Python:
+* Others: Zotero, Tableau, SPSS, AutoCAD, RevitBIM, SketchUp. 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
