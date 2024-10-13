@@ -11,7 +11,6 @@ location: "NUS"
 This personal exercise involves three methods to build rainfall-runoff models using observational data, spatial data, and parameters to estimate flooding events: 1) Flow direction and potential flooding areas are analyzed using GRASS tool in QGIS; 2) a fully-distributed hydrological model is developed with wflow.py, integrated with QGIS; 3) an ANN Long Short-Term Memory (LSTM) model is trained in Python, and a Multilayer Perceptron (MLP) model was trained in R. <br/>
 Overall, this project strengthens my skills in dataset processing using scripts (Python & R), and in creating DEMs to represent spatial data, further enhancing my ability to analyze shoreline morphology using remote sensing data and integrating ANN machine learning models.
 
-
 Sub-Project 1: DEMs and Rainfall-Runoff Analysis in QGIS
 ======
 
@@ -19,7 +18,6 @@ The personal assignment involves processing a Digital Elevation Model (DEM) and 
 <p align="center">
   <img src='/images/proj-hydro-1-1.png' alt='Image Description' width='500'> 
 </p> 
-<br/>
 Finally, Kent Ridge catchment data story is created using Tableau. 
 [Slides in Tableau](https://public.tableau.com/app/profile/x.p1712/viz/KentRidgeCatchmentstory_PANXINXIN/Story1?publish=yes)
 <br/>
@@ -32,7 +30,6 @@ The group assignment involves assessing the impact of rainfall events on two DEM
 <p align="center">
   <img src='/images/proj-hydro-2.PNG' alt='Image Description' width='500'> 
 </p> 
-<br/>
 The final results are shown in the presentation. <br/>
 [Download Slides](http://kingdaxing.github.io/files/Rainfall-Runoff-WFLOW.pdf) <br/>
 
@@ -44,6 +41,4 @@ The task compares the performance of Long Short-Term Memory (LSTM) networks trai
 <p align="center">
   <img src='/images/proj-hydro-3.PNG' alt='Image Description' width='500'> 
 </p> 
-<br/>[Download Report & Scripts](http://kingdaxing.github.io/files/Rainfall-runoff-modelling-using-ANN.pdf) 
-
-
+[Download Report & Scripts](http://kingdaxing.github.io/files/Rainfall-runoff-modelling-using-ANN.pdf) 
