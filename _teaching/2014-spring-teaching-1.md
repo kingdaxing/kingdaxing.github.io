@@ -12,16 +12,16 @@ This project involved designing a seawall adjacent to an estuary within mangrove
 
 Conceptual Design
 ======
-Short description of portfolio item number 1<br/><img src='/images/work1-1.png'>
+Short description of portfolio item number 1<br/><img src='/images/work1-1.PNG'>
 
 
 Topographic Analysis and Bathymetry
 ======
 
 In the cross-section, the park and its coastal protection feature three main functions. The first is a foreshore wave attenuation zone within the mangroves. This is followed by trapezoidal embankments that provide structural support. Behind the seawall, beautifully landscaped gardens connect seamlessly to the design. 
-The structure employs a composite slope that enhances coastal resilience and integrates with the natural environment. A secondary platform is positioned outside the design boundary to facilitate habitat connectivity while maintaining open access to the seaward side. Below this platform, riprap is used to stabilize the connection with the existing riverbed, promoting erosion control and supporting the health of the mangrove ecosystem. <br/><img src='/images/work1-2.png'>
+The structure employs a composite slope that enhances coastal resilience and integrates with the natural environment. A secondary platform is positioned outside the design boundary to facilitate habitat connectivity while maintaining open access to the seaward side. Below this platform, riprap is used to stabilize the connection with the existing riverbed, promoting erosion control and supporting the health of the mangrove ecosystem. <br/><img src='/images/work1-2.PNG'>
 
 
 Cross-Profile
 ======
-Short description of portfolio item number 1<br/><img src='/images/work1-3.png'>
+Short description of portfolio item number 1<br/><img src='/images/work1-3.PNG'>
