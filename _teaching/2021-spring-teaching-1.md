@@ -2,7 +2,7 @@
 title: "Living Shoreline Protection Design Adjacent to an Estuary within Mangroves"
 collection: teaching
 type: "Coastal Protection Feasibility Study and Design"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-1
 venue: "Shenzhen, China"
 date: 2021-04-15
 location: "Shenzhen, China"
