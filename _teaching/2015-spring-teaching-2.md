@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Estuary Channel Realigning Project for Dakanggang Artificial River"
 collection: teaching
-type: "Workshop"
+type: "Coastal Protection Feasibility Study and Design"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2022-04-010
@@ -12,5 +12,6 @@ The project aims to realign an estuary channel, and reconstruct relative seawall
 
 Layout Design
 ======
+
 
 
