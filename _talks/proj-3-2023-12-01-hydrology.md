@@ -17,7 +17,7 @@ Sub-Project 1: DEMs and Rainfall-Runoff Analysis in QGIS
 
 The personal assignment involves processing a Digital Elevation Model (DEM) and conducting hydrological analysis for the Kent Ridge Catchment, which was set up to collect hydrological data and develop a rainfall-runoff model. It includes using both low-resolution CSV data and high-resolution ASC raster data. Additionally, the high-resolution DEM are analyzed to identify natural drainage, flow direction, and flow accumulation points. <br/>
 <p align="center">
-  <img src='/images/proj-hydro-1-1.PNG' alt='Image Description' width='500'> 
+  <img src='/images/proj-hydro-1-1.png' alt='Image Description' width='500'> 
 </p> 
 <br/>
 Finally, Kent Ridge catchment data story is created using Tableau. 
