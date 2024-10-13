@@ -2,7 +2,7 @@
 title: "Sediment Transport in Fluvial-Coastal Processes"
 collection: talks
 type: "Numerical Methods and Lab Experiments"
-permalink: /talks/talk-1-2024-03-01-sediment
+permalink: /talks/proj-1-2024-03-01-sediment
 date: 2024-03-01
 venue: "CDE"
 location: "NUS"
