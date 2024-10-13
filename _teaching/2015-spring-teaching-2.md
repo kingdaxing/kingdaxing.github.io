@@ -3,7 +3,7 @@ title: "Estuary Channel Realigning Project for Dakanggang Artificial River"
 collection: teaching
 type: "Coastal Protection Feasibility Study and Design"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Pearl River Delta, Shenzhen"
 date: 2022-04-010
 location: "Shenzhen, China"
 ---
