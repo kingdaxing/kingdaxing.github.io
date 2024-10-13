@@ -8,7 +8,7 @@ venue: "CDE"
 location: "NUS"
 ---
 
-This includes my main academic projects on sediment transport in fluvial and coastal processes, which are my core research interests. My research involves laboratory experiments and numerical modeling (e.g., FLOW-3D and MATLAB scripts).
+This includes my main academic projects on sediment transport in fluvial and coastal processes, which are my core research interests. My research methods involve laboratory experiments and numerical modeling (e.g., FLOW-3D, DHI MIKE, MATLAB scripts).
 
 Sub-Project 1: Channel Optimization Design & Sediment-Erosion Analysis (Thesis)
 ======
