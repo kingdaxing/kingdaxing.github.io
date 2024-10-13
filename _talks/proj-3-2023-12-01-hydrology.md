@@ -9,7 +9,7 @@ location: "NUS"
 ---
 
 This personal exercise involves three methods to build rainfall-runoff models using observational data, spatial data, and parameters to estimate flooding events: 1) Flow direction and potential flooding areas are analyzed using GRASS tool in QGIS; 2) a fully-distributed hydrological model is developed with wflow.py, integrated with QGIS; 3) an ANN Long Short-Term Memory (LSTM) model is trained in Python, and a Multilayer Perceptron (MLP) model was trained in R. <br/>
-Overall, this project strengthens my skills in dataset processing using scripts (Python & R), and in creating DEMs to represent spatial data, further enhancing my ability to analyze shoreline morphology using remote sensing data and integrating ANN machine learning models.
+Overall, this project strengthens my skills in dataset processing using scripts, and in creating DEMs to represent spatial data, further enhancing my ability to analyze shoreline morphology using remote sensing data and integrating ANN machine learning models.
 
 Sub-Project 1: DEMs and Rainfall-Runoff Analysis in QGIS
 ======
