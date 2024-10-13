@@ -17,5 +17,5 @@ This project involves the realignment of the estuary channel for the Dakanggang 
 1. Flood and Tide Protection: To address flood discharge issues caused by obstructions from Bao'an Port, this project will create a new floodway connecting the north and south channels of the river to the Pearl River estuary, ensuring a robust flood and tide protection system.
 2. Channel Dredging: The southern estuary will be dredged to enlarge the river's cross-section and improve its flood discharge capacity. This ensures safe flood management in alignment with regional development needs and planning principles <br/>
 <p align="center">
-  <img src='/images/work2-1.PNG' alt='Image Description' width='500> 
+  <img src='/images/work2-1.PNG' alt='Image Description' width='500'> 
 </p> 
