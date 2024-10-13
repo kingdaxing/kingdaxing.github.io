@@ -4,17 +4,13 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2022-04-010
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The project aims to realign an estuary channel, and reconstruct relative seawall to allow the artificial river to seamlessly connect with the Pearl River.
 
-Heading 1
+Layout Design
 ======
 
-Heading 2
-======
 
-Heading 3
-======
