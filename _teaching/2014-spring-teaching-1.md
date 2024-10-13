@@ -15,7 +15,7 @@ Conceptual Design
 This project aims to develop the coastal landscape along the Dongguan Binhai Bay in Shenzhen, China. 
 Key objectives include:
 1. Living Shoreline & Seawall Construction: A new seawall will be constructed to provide robust flood protection, designed for a 100-year flood return period. This seawall will incorporate and protect existing mangroves, creating a living shoreline that enhances coastal resilience and fosters a sustainable ecological marine environment.
-2. Coastal Park Development: The project will create a vibrant coastal vitality park, incorporating greenway features that promote recreational use and ecological sustainability. <br/><img src='/images/work1-1.PNG'>
+2. Coastal Park Development: The project will create a vibrant coastal vitality park, incorporating greenway features that promote recreational use and ecological sustainability. <br/><img src='/images/work1-1.png'>
 
 Topographic Analysis and Bathymetry
 ======
