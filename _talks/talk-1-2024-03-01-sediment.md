@@ -2,9 +2,10 @@
 title: "Sediment Transport in Fluvial-Coastal Processes"
 collection: talks
 type: "Numerical Methods and Lab Experiments"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/talk-1-2024-03-01-sediment
 date: 2024-03-01
-venue: "NUS"
+venue: "CDE"
+location: "NUS"
 ---
 
 This includes my main academic projects on sediment transport in fluvial and coastal processes, which are my core research interests. My research involves laboratory experiments and numerical modeling (e.g., FLOW-3D and MATLAB scripts).
