@@ -32,6 +32,14 @@ This analysis explores sediment transport in a wide river using a Matlab model. 
 <p align="center">
   <img src='/images/proj-sedi-2-2.PNG' alt='Image Description' width='500'>
 </p>
+ <br/>
+Additionally, laboratory experiments on sand motion in current processes were conducted in two flumes to investigate incipient sediment motion and sand ripple formation, with flow measured using Acoustic Doppler Velocimetry (ADV). Shields diagrams were used to assess the critical conditions for sediment movement, focusing on incipient motion velocity and sand ripple development. Post-processed ADV data provided insights into flow characteristics and sediment behavior. The experiments successfully validated the Shields parameter's prediction of sediment transport conditions, demonstrating the relationship between shear stress and particle Reynolds number, with key results visualized in modified Shields and Shields regime diagrams. <br/>
+<p align="center">
+  <img src='/images/proj-sedi-2-1.png' alt='Image Description' width='600'> 
+</p> 
+[Download Report](http://kingdaxing.github.io/files/NO3.pdf)
+
+
 
 Sub-Project 3: Surfzone Hydrodynamics & Simplified Shoreline Morphology Study 
 ======
