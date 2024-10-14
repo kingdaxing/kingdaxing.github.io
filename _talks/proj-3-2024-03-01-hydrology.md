@@ -2,9 +2,9 @@
 title: "Rainfall-Runoff Analysis by QGIS, WFLOW.py & Artificial Neural Network Models"
 collection: talks
 type: "QGIS & Scripts"
-permalink: /talks/proj-3-2023-12-01-hydrology
-venue: "CDE"
-date: 2023-12-01
+permalink: /talks/proj-3-2024-03-01-hydrology
+venue: "Water Resources Modelling & Hydro-Information Module"
+date: 2024-03-01
 location: "NUS"
 ---
 
