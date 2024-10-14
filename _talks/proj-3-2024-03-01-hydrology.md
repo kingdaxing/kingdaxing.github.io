@@ -16,7 +16,7 @@ Sub-Project 1: DEMs and Rainfall-Runoff Analysis in QGIS
 
 The personal assignment involves processing a Digital Elevation Model (DEM) and conducting hydrological analysis for the Kent Ridge Catchment, which was set up to collect hydrological data and develop a rainfall-runoff model. It includes using both low-resolution CSV data and high-resolution ASC raster data. Additionally, the high-resolution DEM are analyzed to identify natural drainage, flow direction, and flow accumulation points. <br/>
 <p align="center">
-  <img src='/images/proj-hydro-1-1.png' alt='Image Description' width='500'> 
+  <img src='/images/proj-hydro-1-1.png' alt='Image Description' width='450'> 
 </p> 
 Finally, Kent Ridge catchment data story is created using Tableau. 
 [Slides in Tableau](https://public.tableau.com/app/profile/x.p1712/viz/KentRidgeCatchmentstory_PANXINXIN/Story1?publish=yes)
@@ -27,7 +27,7 @@ Sub-Project 2： Rainfall-Runoff Response Modelling in wflow.py Integrating QGIS
 
 The group assignment involves assessing the impact of rainfall events on two DEMs of the same catchment, reflecting changes due to the construction of COM4 at NUS. Using wflow.py, an open-source hydrological modeling tool, the rainfall-runoff response for both the original and modified catchments are simulated. DEMs are pre-processed in QGIS and inputted into wflow, with runoff coefficients modified for land use changes. The model is run for rainfall events of varying intensity to compare performance as model calibration and validation. Results are analyzed to understand COM4’s impact on catchment response and compared to standard return periods. <br/>
 <p align="center">
-  <img src='/images/proj-hydro-2.PNG' alt='Image Description' width='500'> 
+  <img src='/images/proj-hydro-2.PNG' alt='Image Description' width='550'> 
 </p> 
 The final results are shown in the presentation.
 [Download Slides](http://kingdaxing.github.io/files/Rainfall-Runoff-WFLOW.pdf) 
