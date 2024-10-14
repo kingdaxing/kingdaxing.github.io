@@ -1,5 +1,5 @@
 ---
-title: "Estuary Channel Rearrange Project for Dakanggang Artificial River"
+title: "Estuary Channel Development for Dakanggang Artificial River"
 collection: teaching
 type: "Estuary Feasibility Study and Design"
 permalink: /teaching/work-2-2022-Estuary-Channel
@@ -8,7 +8,7 @@ date: 2022-04-10
 location: "Shenzhen, China"
 ---
 
-The Estuary Channel Realignment and Seawall Construction project aims to realign an estuary channel, and reconstruct relative seawall to allow the artificial river to seamlessly connect with the Pearl River.
+The Estuary Channel Reconstrcution and Seawall Construction project aims to develop an estuary channel, and reconstruct relative seawall to allow the artificial river to seamlessly connect with the Pearl River.
 
 Layout Design
 ======
