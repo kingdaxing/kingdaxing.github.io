@@ -2,8 +2,8 @@
 title: "Sediment Transport in Fluvial-Coastal Processes"
 collection: talks
 type: "Numerical Methods and Lab Experiments"
-permalink: /talks/proj-1-2024-03-01-sediment
-date: 2024-03-01
+permalink: /talks/proj-1-2024-04-01-sediment
+date: 2024-04-01
 venue: "Sediment Transport Module"
 location: "NUS"
 ---
