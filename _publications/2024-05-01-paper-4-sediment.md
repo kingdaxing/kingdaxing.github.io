@@ -1,5 +1,5 @@
 ---
-title: "Sediment Experiment with Current Process"
+title: "Sediment Experiment with Current"
 collection: publications
 category: reports
 permalink: /publication/2024-05-01-paper-4-sediment
