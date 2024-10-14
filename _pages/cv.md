@@ -26,7 +26,7 @@ Work experience
     * Technical Report Writing
     * Topographic & Morphologic Anaylsis using Civil3D & QGIS
   * Main Projects:
-    * Seawall Design with Mangroves
+    * Living Shoreline Design
     * Road-River Cross-Engineering Evaluation (Scour Risk and Flow Prediction)
     * Coastal Protection Reconstruction in Estuary
     * Reservoir and Dam Safety Assessment
