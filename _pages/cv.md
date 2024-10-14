@@ -50,3 +50,13 @@ Service and leadership
 ======
 * Led teams in two research projects focused on TKE simulation and fluvial lab experiments.
 * Led a women’s college basketball team to win multiple prizes in Jiangsu, China.
+
+
+Self Evaluation
+======
+* Strong academic background in sediment transport in coastal and fluvial processes, including sediment dynamics in wave-current and analytical solutions of cross- and long-shore modelling. 
+* Proficiency with numerical methods, lab experiments, field works, data processing about sediment particles and aquatic plants, as well as statistical analysis.
+* Passionate about nature-based solutions and vegetation dynamics for coastal protection, including the design and application of living shorelines and eco-hydrology modeling.
+* Extensive experience in proposing methodologies and academic writing.
+* Strong leadership and execution abilities, with high level of self-motivation. 
+* Certified Water & Coastal Structural Assistant Engineer in China with proven problem-solving skills, and experienced in engineering solution for SLR and NbS in marshes.
