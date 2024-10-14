@@ -2,7 +2,7 @@
 title: "A Living Shoreline Design for Erosion Mitigation in Main Beach, Byron Bay, NSW, AUS"
 collection: publications
 category: reports
-permalink: /publication/2024-05-10-paper-Living-Shoreline
+permalink: /publication/2024-05-10-paper-2-Living-Shoreline
 excerpt: 'This study proposes a living shoreline design using artificial submerged reefs, while evaluating their effectiveness by theoretical analysis, case studies, and SWASH model results.'
 date: 2024-05-10
 venue: 'Master Core Module - Nature-based Solutions (NbS) for Coastal Protection'
