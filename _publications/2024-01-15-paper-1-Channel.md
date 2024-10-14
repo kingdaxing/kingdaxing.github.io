@@ -2,7 +2,7 @@
 title: "Channel Optimization Design - A Case Study of Shawan River, Shenzhen"
 collection: publications
 category: thesis
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-01-15-paper-1-Channel
 excerpt: 'This study explores the optimization of the Shawan River channel in Shenzhen to enhance flood protection while balancing localized sediment prevention and erosion control.'
 date: 2024-01-15
 venue: 'Master Core Module - Open Channel Hydraulics'
