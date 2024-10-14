@@ -2,9 +2,9 @@
 title: "Talk 1 on Relevant Topic in Your Field"
 collection: talks
 type: "T&C Terrestrial Biosphere Model"
-permalink: /talks/proj-4-2024-02-15-Eco-hydrology
+permalink: /talks/proj-4-2023-08-01-Eco-hydrology
 venue: "Eco-Hydrology Module"
-date: 2024-02-15
+date: 2023-08-01
 location: "NUS"
 ---
 
