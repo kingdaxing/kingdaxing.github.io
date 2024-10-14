@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Pan Xinxin"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Passionate Coastal Consultant & Engineer"
   location         : "China"
   employer         : # 
@@ -245,10 +245,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _works
   - scope:
       path: ""
-      type: teaching
+      type: works
     values:
       layout: single
       author_profile: true
