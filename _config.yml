@@ -245,10 +245,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _works
+  # _teaching
   - scope:
       path: ""
-      type: works
+      type: teaching
     values:
       layout: single
       author_profile: true
