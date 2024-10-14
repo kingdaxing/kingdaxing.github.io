@@ -20,7 +20,7 @@ Work experience
 ======
 * Jul 2020 - Jun 2022 : Coastal Engineer & Consultant
   * Water Engineering Department, Shenzhen Water Planning & Design Institute Co., Ltd., China
-  * Duties includes: 
+  * Duties include: 
     * Feasibility Studies, Planning & Design for Coastal & Water Engineering Projects
     * Hydrological Modeling
     * Technical Report Writing
