@@ -1,8 +1,8 @@
 ---
-title: "Sediment Experiment with Current Report"
+title: "Sediment Experiment with Current Process"
 collection: publications
 category: reports
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2024-05-01-paper-4-sediment
 excerpt: 'This report studies sediment transport parameters and ripple formation through flume experiments using Shields region diagrams.'
 date: 2024-05-01
 venue: 'Master Core Module - Sediment Transport'
