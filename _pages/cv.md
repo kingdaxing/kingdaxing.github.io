@@ -16,7 +16,7 @@ Education
 * B.Eng. in China, Hohai University, 2020
   * Water and Hydropower Engineering 
 
-Work experience
+Work Experience
 ======
 * Jul 2020 - Jun 2022 : Coastal Engineer & Consultant
   * Water Engineering Department, Shenzhen Water Planning & Design Institute Co., Ltd., China
@@ -48,7 +48,7 @@ Skills
 * Others: Zotero, Tableau, SPSS, AutoCAD, RevitBIM, SketchUp. 
 
  
-Service and leadership
+Service and Leadership
 ======
 * Led teams in two research projects focused on TKE simulation and fluvial lab experiments.
 * Led a women’s college basketball team to win multiple prizes in Jiangsu, China.
@@ -57,7 +57,7 @@ Service and leadership
 Self Evaluation
 ======
 * Strong academic background in sediment transport in coastal and fluvial processes, including sediment dynamics in wave-current and analytical solutions of long-shore modelling. 
-* Proficiency with numerical methods, lab experiments, field works, data processing about sediment particles and aquatic plants, as well as statistical analysis.
+* Proficiency with numerical methods, lab experiments, fieldworks, data processing about sediment particles and aquatic plants, as well as statistical analysis.
 * Passionate about nature-based solutions and vegetation dynamics for coastal protection, including the design and application of living shorelines and eco-hydrology modeling.
 * Extensive experience in proposing methodologies and academic writing.
 * Strong leadership and execution abilities, with high level of self-motivation. 
