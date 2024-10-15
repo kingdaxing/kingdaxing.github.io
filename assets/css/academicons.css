@@ -569,3 +569,11 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+body {
+  background-image: url("/assets/images/DSC00801_bg.jpg"); /* 替换为你的图片路径 */
+  background-size: cover; /* 图片覆盖整个背景 */
+  background-position: center; /* 图片居中显示 */
+  background-repeat: no-repeat; /* 不重复显示图片 */
+  background-attachment: fixed; /* 固定背景图片，不跟随滚动 */
+}
