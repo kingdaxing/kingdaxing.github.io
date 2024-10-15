@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pan Xinxin / Personal Website"
+title                    : "Pan Xinxin"
 title_separator          : "-"
 name                     : &name "Pan Xinxin"
 description              : &description "In me the tiger sniffs the rose"
@@ -83,7 +83,7 @@ publication_category:
     title: 'Scripts'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "DSC00801_bg.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
