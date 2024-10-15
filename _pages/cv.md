@@ -38,11 +38,13 @@ Skills
   * Delft3D: Mixing & Diffusion Processes in Open Ocean.
   * DHI MIKE: Flood Assessment and Simulation of Wave-Current Dynamics.
   * FLOW3D: TKE Simulation Focusing on Flow-Structure Interaction. 
-  * QGIS, Civil3D: Watersheds direction.
+  * QGIS, Civil3D: DEMs and Flow Analysis.
   * AutoBank: Seepage and Stability Analyses of Structures based on Finite Element Method.
 * **Scripts:**
   * MATLAB: Sediment Transport in Current Processes Modeling; Integration with Delft3D; Data analysis.
-  * R, Python: Advanced Statistical Analysis; Dataset Processing; Artificial Neural Network Modelling and Data Assimilation.
+  * R, Python: Advanced Statistical Analysis; Dataset Processing; Artificial Neural Network (ANN LSTM & MLP) Modelling and Data Assimilation.
+* **Research Skill:**
+  * Experimental Fluid Mechanics (ADV)
 * Others: Zotero, Tableau, SPSS, AutoCAD, RevitBIM, SketchUp. 
 
  
@@ -54,7 +56,7 @@ Service and leadership
 
 Self Evaluation
 ======
-* Strong academic background in sediment transport in coastal and fluvial processes, including sediment dynamics in wave-current and analytical solutions of cross- and long-shore modelling. 
+* Strong academic background in sediment transport in coastal and fluvial processes, including sediment dynamics in wave-current and analytical solutions of long-shore modelling. 
 * Proficiency with numerical methods, lab experiments, field works, data processing about sediment particles and aquatic plants, as well as statistical analysis.
 * Passionate about nature-based solutions and vegetation dynamics for coastal protection, including the design and application of living shorelines and eco-hydrology modeling.
 * Extensive experience in proposing methodologies and academic writing.
