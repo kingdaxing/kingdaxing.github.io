@@ -43,7 +43,7 @@ Skills
 * **Scripts:**
   * MATLAB: Sediment Transport in Current Processes Modeling; Integration with Delft3D; Data analysis.
   * R, Python: Advanced Statistical Analysis; Dataset Processing; Artificial Neural Network (ANN LSTM & MLP) Modelling and Data Assimilation.
-* **Research Skill:**
+* **Research Skills:**
   * Experimental Fluid Mechanics (ADV)
 * Others: Zotero, Tableau, SPSS, AutoCAD, RevitBIM, SketchUp. 
 
