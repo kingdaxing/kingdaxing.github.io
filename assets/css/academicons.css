@@ -571,9 +571,9 @@ border-radius: .1em;
 }
 
 body {
-  background-image: url("/assets/images/DSC00801_bg.jpg"); /* 替换为你的图片路径 */
-  background-size: cover; /* 图片覆盖整个背景 */
+  background-image: url("/images/DSC00801_bg.png"); /* 这里使用图片的路径 */
+  background-size: cover; /* 确保图片覆盖整个页面 */
   background-position: center; /* 图片居中显示 */
   background-repeat: no-repeat; /* 不重复显示图片 */
-  background-attachment: fixed; /* 固定背景图片，不跟随滚动 */
+  background-attachment: fixed; /* 背景图片固定，不随页面滚动 */
 }
