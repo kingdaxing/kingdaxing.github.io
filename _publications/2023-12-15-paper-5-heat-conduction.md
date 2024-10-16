@@ -1,5 +1,5 @@
 ---
-title: "A 2D Transient Heat Conduction Model using FDM"
+title: "A 2D Transient Heat Conduction Model solving PDEs"
 collection: publications
 category: reports
 permalink: /publication/2023-12-15-paper-5-heat-conduction
