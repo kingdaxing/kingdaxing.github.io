@@ -8,7 +8,7 @@ date: 2022-04-10
 location: "Shenzhen, China"
 ---
 
-The Estuary Channel Reconstrcution and Seawall Construction project aims to develop an estuary channel, and reconstruct relative seawall to allow the artificial river to seamlessly connect with the Pearl River.
+The Estuary Channel Reconstruction and Seawall Construction project aims to develop an estuary channel, and reconstruct relative seawall to allow the artificial river to seamlessly connect with the Pearl River.
 
 Layout Design
 ======
