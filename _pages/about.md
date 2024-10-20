@@ -7,6 +7,24 @@ redirect_from:
   - /about.html
 ---
 
+* Intro:
+**  EDUCATION:**
+   - M.Sc. Civil Engineering, National University of Singapore, 2024.
+   - B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
+  
+**  BACKGROUND:**
+   - Fluid Mechanics: Turbulent Mixing, Fluid-Structure Interactions (FSI).
+   - Ecohydraulics: Flow-Sediment-Vegetation Interactions.
+   - Environmental Hydraulics: Sediment Transport, Coastal Processes.
+   - Hydropower and Structure.
+
+**  RESEARCH SKILLS:**
+   - Experimental Fluid Mechanics (ADV).
+   - Artificial Neural Networks and Statistical Analysis (Python/R).
+   - Numerical Modeling (MATLAB) and Computational Fluid Dynamics (Delft3D, DHI MIKE, Flow3D).
+   - Topographic and Hydrological Analysis (QGIS, MidasGTS, Civil3D, Python/R).
+
+
 Hey! This is Pan.
 
 I am from Guangxi at Southeastern China, where a west tributary of the Pearl River flows through my city. Early exposure to this beautiful river has inevitably sparked a curiosity about the physics driving fluvial processes.
@@ -24,22 +42,3 @@ I am very fortunate to be advised by [Prof. Gary](https://www.garylei.com/) from
 Outside of my studies, you can find me at basketball games. This has been my passion for 20 years, and I once led my college team to many victories.
 
 You can find my CV here: [Pan's Curriculum Vitae](../assets/Pan Xinxin_Academic_CV.pdf).
-
-
-* Intro:
- * EDUCATION:
-   - M.Sc. Civil Engineering, National University of Singapore, 2024.
-   - B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
-  
- * BACKGROUND:
-   - Fluid Mechanics: Turbulent Mixing, Fluid-Structure Interactions (FSI).
-   - Ecohydraulics: Flow-Sediment-Vegetation Interactions.
-   - Environmental Hydraulics: Sediment Transport, Coastal Processes.
-   - Hydropower and Structure.
-
- * RESEARCH SKILLS:
-   - Experimental Fluid Mechanics (ADV).
-   - Artificial Neural Networks and Statistical Analysis (Python/R).
-   - Numerical Modeling (MATLAB) and Computational Fluid Dynamics (Delft3D, DHI MIKE, Flow3D).
-   - Topographic and Hydrological Analysis (QGIS, MidasGTS, Civil3D, Python/R).
-
