@@ -28,7 +28,8 @@ You can find my CV here: [Pan's Curriculum Vitae](../assets/Pan Xinxin_Academic_
 
 * Intro:
  * EDUCATION:
-
+   - M.Sc. Civil Engineering, National University of Singapore, 2024.
+   - B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
   
  * BACKGROUND:
    - Fluid Mechanics: Turbulent Mixing, Fluid-Structure Interactions (FSI).
