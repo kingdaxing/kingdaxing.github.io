@@ -7,24 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-* **Intro:**
-  * EDUCATION:
-  </br> - M.Sc. Civil Engineering, National University of Singapore, 2024.
-  </br> - B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
+
+  * **EDUCATION:**
+ - M.Sc. Civil Engineering, National University of Singapore, 2024.
+  - B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
   
-  * BACKGROUND:
-   </br> - Fluid Mechanics: Turbulent Mixing, Fluid-Structure Interactions (FSI).
-   </br> - Ecohydraulics: Flow-Sediment-Vegetation Interactions.
-   </br> - Environmental Hydraulics: Sediment Transport, Coastal Processes.
-   </br> - Hydropower and Structure.
+  * **BACKGROUND:**
+  - Fluid Mechanics: Turbulent Mixing, Fluid-Structure Interactions (FSI).
+  - Ecohydraulics: Flow-Sediment-Vegetation Interactions.
+  - Environmental Hydraulics: Sediment Transport, Coastal Processes.
+  - Hydropower and Structure.
 
-  * RESEARCH SKILLS:
-   </br> - Experimental Fluid Mechanics (ADV).
-   </br> - Artificial Neural Networks and Statistical Analysis (Python/R).
-   </br> - Numerical Modeling (MATLAB) and Computational Fluid Dynamics (Delft3D, DHI MIKE, Flow3D).
-   </br> - Topographic and Hydrological Analysis (QGIS, MidasGTS, Civil3D, Python/R).
+  * **RESEARCH SKILLS:**
+   - Experimental Fluid Mechanics (ADV).
+   - Artificial Neural Networks and Statistical Analysis (Python/R).
+   - Numerical Modeling (MATLAB) and Computational Fluid Dynamics (Delft3D, DHI MIKE, Flow3D).
+   - Topographic and Hydrological Analysis (QGIS, MidasGTS, Civil3D, Python/R).
 
 
+* **Intro:**
 Hey! This is Pan.
 
 I am from Guangxi at Southeastern China, where a west tributary of the Pearl River flows through my city. Early exposure to this beautiful river has inevitably sparked a curiosity about the physics driving fluvial processes.
