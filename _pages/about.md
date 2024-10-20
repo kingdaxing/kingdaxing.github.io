@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*** Intro:**
+* ** Intro:**
   * EDUCATION:
    * M.Sc. Civil Engineering, National University of Singapore, 2024.
    * B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
