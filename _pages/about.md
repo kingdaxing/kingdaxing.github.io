@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 * Intro:
-**  EDUCATION:**
+  * EDUCATION:
    - M.Sc. Civil Engineering, National University of Singapore, 2024.
    - B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
   
-**  BACKGROUND:**
+  * BACKGROUND:
    - Fluid Mechanics: Turbulent Mixing, Fluid-Structure Interactions (FSI).
    - Ecohydraulics: Flow-Sediment-Vegetation Interactions.
    - Environmental Hydraulics: Sediment Transport, Coastal Processes.
    - Hydropower and Structure.
 
-**  RESEARCH SKILLS:**
+  * RESEARCH SKILLS:
    - Experimental Fluid Mechanics (ADV).
    - Artificial Neural Networks and Statistical Analysis (Python/R).
    - Numerical Modeling (MATLAB) and Computational Fluid Dynamics (Delft3D, DHI MIKE, Flow3D).
