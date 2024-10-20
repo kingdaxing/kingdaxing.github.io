@@ -9,8 +9,8 @@ redirect_from:
 
 * Intro:
   * EDUCATION:
-   * M.Sc. Civil Engineering, National University of Singapore, 2024.
-   * B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
+  </br> M.Sc. Civil Engineering, National University of Singapore, 2024.
+  </br> B.Eng. Water and Hydropower Engineering, Hohai University, 2020.
   
   * BACKGROUND:
    * Fluid Mechanics: Turbulent Mixing, Fluid-Structure Interactions (FSI).
