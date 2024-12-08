@@ -3,7 +3,7 @@ title: "Stochastic Modeling of Weather Series in San Antonio Using an Advanced W
 collection: talks
 type: "Climate & Simulation"
 permalink: /talks/proj-5-2023-11-01-climate
-venue: "Climate Modelling & Hydro-Information Module"
+venue: "Climate Modelling - AWEGEN"
 date: 2023-11-01
 location: "NUS"
 ---
