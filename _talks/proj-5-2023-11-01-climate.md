@@ -28,4 +28,5 @@ Temperature: The simulated temperature data generally reflected the expected sea
 
 Solar Radiation: While the simulated solar radiation followed observed trends, the model was less sensitive to variations in cloud cover, particularly on overcast days. To enhance this, adjustments were made to the cloud cover model, specifically refining the Beta distribution parameters to better represent observed cloud cover patterns. This adjustment improved the simulation’s sensitivity to cloud conditions, leading to more accurate radiation values under different weather scenarios.
 <br/>
+<br/>
 In conclusion, this project demonstrates that while the AWE-GEN weather generator effectively simulates the broad features of San Antonio’s climate, adjustments to specific model components are necessary to enhance the accuracy of certain variables. By fine-tuning the parameters related to precipitation, temperature, solar radiation, and wind speed, the model can more closely match observed climate data. 
