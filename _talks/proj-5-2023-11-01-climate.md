@@ -21,7 +21,7 @@ Precipitation: The weather generator successfully captured the general frequency
 
 Temperature: The simulated temperature data generally reflected the expected seasonal cycles, but there was a slight underestimation of extreme temperature values, particularly during heatwaves and cold spells. This was addressed by refining the autoregressive model (AR(1)), adjusting the autoregressive coefficient to capture the persistence of extreme temperatures more effectively. Additionally, the seasonal amplitude and standard deviation were fine-tuned to better match observed temperature variability across different seasons, ensuring a more realistic simulation of temperature extremes.<br/>
 <p align="center">
-  <img src='/images/proj-climate-2.PNG' alt='Image Description' width='400'> 
+  <img src='/images/proj-climate-2.PNG' alt='Image Description' width='400> 
 </p> 
 
 Solar Radiation: While the simulated solar radiation followed observed trends, the model was less sensitive to variations in cloud cover, particularly on overcast days. To enhance this, adjustments were made to the cloud cover model, specifically refining the Beta distribution parameters to better represent observed cloud cover patterns. This adjustment improved the simulation’s sensitivity to cloud conditions, leading to more accurate radiation values under different weather scenarios.
