@@ -8,9 +8,9 @@ date: 2023-11-01
 location: "NUS"
 ---
 
-This project involved the use of the AWE-GEN weather generator to simulate and compare key climate variables for San Antonio, including precipitation, temperature, solar radiation, vapor pressure, and wind speed. The primary objective was to assess how well the generated data replicated observed climate conditions, providing insight into the accuracy and reliability of stochastic weather models in simulating real-world weather patterns.<br/>
+This project involved the use of the AWE-GEN weather generator to simulate and compare key climate variables for San Antonio, including precipitation, temperature, solar radiation, vapor pressure, and wind speed. The primary objective was to assess how well the generated data replicated observed climate conditions, providing insight into the accuracy and reliability of stochastic weather models in simulating real-world weather patterns.
 [Download Slides] (http://kingdaxing.github.io/files/Climate_AWEGEN.pdf)
-<br/>
+
 
 Findings: 
 ======
