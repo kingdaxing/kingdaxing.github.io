@@ -12,8 +12,8 @@ This project involved the use of the AWE-GEN weather generator to simulate and c
 [Download Slides] (http://kingdaxing.github.io/files/Climate_AWEGEN.pdf)
 <br/>
 
-Through the analysis, several important findings were identified:<br/>
-
+Findings: 
+======
 Precipitation: The weather generator successfully captured the general frequency of wet and dry days but tended to underestimate the intensity of rainfall events. This discrepancy was addressed by adjusting the Gamma distribution parameters (shape and scale), improving the simulation of extreme precipitation events. A more accurate representation of observed rainfall intensity was achieved by fine-tuning these parameters based on the observed intensity distribution.<br/>
 <p align="center">
   <img src='/images/proj-climate-1.PNG' alt='Image Description' width='500> 
