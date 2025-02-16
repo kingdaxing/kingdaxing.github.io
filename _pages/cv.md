@@ -12,9 +12,17 @@ redirect_from:
 Education
 ======
 * M.Sc. in Singapore, National University of Singapore, 2024
-  * Civil Engineering in Sustainable Climate Resilience (Digital Water) 
+  * Civil Engineering in Sustainable Climate Resilience (Digital Water)
+  * Coursework: Coastal Processes; Sediment Transport and Coastal Processes; Nature-based Solutions (NbS) for Coastal 
+                Protection; Numerical Methods for Environmental Flows; Open Channel Hydraulics; Eco-Hydrology; Climate 
+                Science; Water Resources Modelling; Hydro-Informatics.
 * B.Eng. in China, Hohai University, 2020
   * Water and Hydropower Engineering
+  * Coursework: River Dynamics; Hydraulics and Experiments; Hydraulic Structure (Dams & Channels); Finite Element Method; 
+                Water Resources Planning; Technology of Numerical Simulation for Water.
+  * Awards: Honorable Mention Prize in the International Mathematical Contest in Modelling (Top 10%); HHU Outstanding 
+            Graduate in 2020; HHU Artistic and Athletic Scholarship (Top 5%), 2017~2020; (HHU Basketball Team Captain)2nd 
+            Place in Basketball Competition at the Jiangsu Provincial Game.
   
 [Academic Transcript](http://kingdaxing.github.io/files/Pan_MSc&BEng_Transcript_Certificate.pdf)
 
