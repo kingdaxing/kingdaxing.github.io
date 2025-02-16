@@ -36,9 +36,10 @@ Work Experience
 Skills
 ======
 * **Modelling:**
-  * Delft3D: Mixing & Diffusion Processes in Open Ocean.
+  * Delft3D: Mixing & Diffusion & Sediment Transport Processes in Ocean.
   * DHI MIKE: Flood Assessment and Simulation of Wave-Current Dynamics.
-  * FLOW3D: TKE Simulation Focusing on Flow-Structure Interaction. 
+  * FLOW3D: TKE Simulation Focusing on Flow-Structure Interaction.
+  * OpenFOAM/Salome: Simple Solution of N-S Equations & Simulation of Two-phase Flow in Wave-Structure Interaction.
   * QGIS, Civil3D: DEMs and Flow Analysis.
   * AutoBank: Seepage and Stability Analyses of Structures based on Finite Element Method.
 * **Scripts:**
@@ -58,7 +59,7 @@ Service and Leadership
 Self Evaluation
 ======
 * Strong academic background in sediment transport in coastal and fluvial processes, including sediment dynamics in wave-current and analytical solutions of long-shore modelling. 
-* Proficiency with numerical methods, lab experiments, fieldworks, data processing about sediment particles and aquatic plants, as well as statistical analysis.
+* Proficiency with numerical methods, CFD, lab experiments, fieldworks, data processing about sediment particles and aquatic plants, as well as statistical analysis.
 * Passionate about nature-based solutions and vegetation dynamics for coastal protection, including the design and application of living shorelines and eco-hydrology modeling.
 * Extensive experience in proposing methodologies and academic writing.
 * Strong leadership and execution abilities, with high level of self-motivation. 
