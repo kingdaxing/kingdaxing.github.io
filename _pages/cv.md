@@ -26,21 +26,6 @@ Education
   
 [Academic Transcript](http://kingdaxing.github.io/files/Pan_MSc&BEng_Transcript_Certificate.pdf)
 
-Work Experience
-======
-* Jul 2020 - Jun 2022 : Hydraulic Engineer & Consultant
-  * Water Engineering Department, Shenzhen Water Planning & Design Institute Co., Ltd., China
-  * Duties include: 
-    * Feasibility Studies, Planning & Design for Coastal & Water Engineering Projects
-    * Hydrological Modeling
-    * Technical Report Writing
-    * Topographic & Morphologic Anaylsis using Civil3D & QGIS
-  * Main Projects:
-    * Living Shoreline Design
-    * Road-River Cross-Engineering Evaluation (Scour Risk and Flow Prediction)
-    * Coastal Protection Reconstruction in Estuary
-    * Reservoir and Dam Safety Assessment
-    * Open-Channel Design and Associated Facilities (e.g., Weirs)
   
 Skills
 ======
@@ -57,6 +42,23 @@ Skills
 * **Research Skills:**
   * Experimental Fluid Mechanics (ADV)
 * Others: Zotero, Tableau, SPSS, AutoCAD, RevitBIM, SketchUp. 
+
+
+Work Experience
+======
+* Jul 2020 - Jun 2022 : Hydraulic Engineer & Consultant
+  * Water Engineering Department, Shenzhen Water Planning & Design Institute Co., Ltd., China
+  * Duties include: 
+    * Feasibility Studies, Planning & Design for Coastal & Water Engineering Projects
+    * Hydrological Modeling
+    * Technical Report Writing
+    * Topographic & Morphologic Anaylsis using Civil3D & QGIS
+  * Main Projects:
+    * Living Shoreline Design
+    * Road-River Cross-Engineering Evaluation (Scour Risk and Flow Prediction)
+    * Coastal Protection Reconstruction in Estuary
+    * Reservoir and Dam Safety Assessment
+    * Open-Channel Design and Associated Facilities (e.g., Weirs)
 
  
 Service and Leadership
