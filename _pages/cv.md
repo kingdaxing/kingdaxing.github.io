@@ -15,6 +15,7 @@ Education
   * Civil Engineering in Sustainable Climate Resilience (Digital Water) 
 * B.Eng. in China, Hohai University, 2020
   * Water and Hydropower Engineering 
+[Academic Transcript](http://kingdaxing.github.io/files/Pan_MSc&BEng_Transcript_Certificate.pdf)
 
 Work Experience
 ======
