@@ -24,4 +24,7 @@ I am very fortunate to be advised by [Prof. Gary](https://www.garylei.com/) from
 
 Outside of my studies, you can find me at basketball games. This has been my passion for 20 years, and I once led my college team to many victories.
 
-You can find my CV here: [Pan's Curriculum Vitae](../assets/Pan Xinxin_Academic_CV.pdf).
+You can find my CV and intro here: 
+[Pan's Curriculum Vitae](../assets/Pan Xinxin_Academic_CV.pdf).
+[Pan's Intro](http://kingdaxing.github.io/files/Intro.pdf).
+
